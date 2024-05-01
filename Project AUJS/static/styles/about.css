@@ -50,6 +50,7 @@ body
 details
 {
     margin-bottom: 5px;
+    max-width: 1000px;
 }
 details:hover
 {
